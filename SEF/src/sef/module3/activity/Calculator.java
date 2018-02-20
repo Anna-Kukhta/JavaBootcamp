@@ -15,11 +15,10 @@ public class Calculator {
 	int y = 5;
 	
 	int[] nums = {1, 2, 3, 4};
-	
-	System.out.println("Addition - " + add(x,y));
-	System.out.println("Subtraction - " + subtract(x,y));
-	System.out.println("Multiply - " + multiply(nums));
-	System.out.println("Divide - " + divide(x,y));
+		System.out.println("Addition - " + add(x,y));
+		System.out.println("Subtraction - " + subtract(x,y));
+		System.out.println("Multiply - " + multiply(nums));
+		System.out.println("Divide - " + divide(x,y));
 	
 	}
 

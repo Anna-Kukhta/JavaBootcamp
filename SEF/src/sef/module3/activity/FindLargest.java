@@ -25,27 +25,25 @@ public class FindLargest {
 		}
 
 		// Find Largest of three numbers
-				
-		int i = 1, j = 2, k = 10;
-		
-		if (i > j) {
-			if // complete code
-			{
-				System.out.println(i + " is Largest of three numbers");
-			} else {
-				System.out.println(k+ " is Largest of three numbers");
-			}
-		} else {
-			if // complete code
-			{
-				System.out.println(j+ " is Largest of three numbers");
-			} else {
-				System.out.println(k+ " is Largest of three numbers");
-			}
-		}
-		
 
+		int i = 1, j = 2, k = 10;
+
+		if (i > j);
+		{
+			System.out.println(i + "is the largest of three numbers");
+		};
+			else (j>k);
+
+		{
+			System.out.println(j + " is the largest of three nubers");
+		} else {
+				System.out.println (k + "is the largest of three numbers");};
+		}
 
 	}
+
+
+
+}
 
 }
